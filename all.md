@@ -37,4 +37,6 @@
 * https://community.cloudera.com/t5/Community-Articles/Using-Parsey-McParseFace-Google-TensorFlow-Syntaxnet-From/ta-p/246337
 * https://community.cloudera.com/t5/Community-Articles/Ingesting-osquery-Into-Apache-Phoenix-using-Apache-NiFi/ta-p/249308
 * https://community.cloudera.com/t5/Community-Articles/Converting-PowerPoint-Presentations-into-French-from-English/ta-p/248974
+* https://community.cloudera.com/t5/Community-Articles/Posting-Images-with-Apache-NiFi-1-7-and-a-Custom-Processor/ta-p/249017
+* https://community.cloudera.com/t5/Community-Articles/Parsing-Any-Document-with-Apache-NiFi-1-5-with-Apache-Tika/ta-p/247672
 * 
